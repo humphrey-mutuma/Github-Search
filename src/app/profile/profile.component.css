@@ -1,0 +1,18 @@
+
+  html,
+  body,
+  header,
+  .carousel {
+    height: 50%;
+  }
+  
+  @media (min-width: 786px) and (max-width: 845px) {
+          .navbar:not(.top-nav-collapse) {
+              background: #1C2331!important;
+          }
+      }
+  
+  
+  
+  
+  
